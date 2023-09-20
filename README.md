@@ -5,7 +5,7 @@
 - 💬 Pensando no ENEM...
 - 🚀 Curiosidade: Sou fascinado pelo universo!
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)()]
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/leonardo-castro-5074a0276)]
 
 <div> 
   <a href="https://github.com/LeoCasttr0"></a>
