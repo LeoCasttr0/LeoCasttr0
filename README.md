@@ -5,7 +5,7 @@
 - 💬 Pensando no ENEM...
 - 🚀 Curiosidade: Sou fascinado pelo universo!
 
-<div style="display:flex;"> 
+<div> 
   <a href="https://github.com/LeoCasttr0"></a>
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=LeoCasttr0&show_icons=true&theme=transparent"/>
 
