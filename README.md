@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoCasttr0&show_icons=true&theme=transparent"/>
 
 
-   <img height="180em" src="https://github-readme-stats.versel.app/api/top-langs/?username=LeoCasttr0layout=compact&langs_count=16&theme=dark"/>
+   <img height="180em" [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)/>
 </div>
 
 <div style="display: inline_block"><br>
