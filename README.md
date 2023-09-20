@@ -1,4 +1,4 @@
-### Olá! ,Eu sou o Leonardo 🖖🏻
+### Olá! , Eu sou o Leonardo 🖖🏻
 
 - 📫 Estagiando com Desenvolvimento na empresa Fixpay.
 - 👨🏻‍💻 Estudando Golang e Vue.
