@@ -5,6 +5,8 @@
 - 💬 Pensando no ENEM...
 - 🚀 Curiosidade: Sou fascinado pelo universo!
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)()]
+
 <div> 
   <a href="https://github.com/LeoCasttr0"></a>
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=LeoCasttr0&show_icons=true&theme=transparent"/>
