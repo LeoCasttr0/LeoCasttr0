@@ -1,4 +1,4 @@
-### Olá! , Eu sou o Leonardo 🖖🏻
+### Olá ! Eu sou o Leonardo 🖖🏻
 
 
 <div style="display: flex; flex-direction: row;">
