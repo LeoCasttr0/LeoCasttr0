@@ -1,21 +1,29 @@
 ### Olá! , Eu sou o Leonardo 🖖🏻
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LeoCasttr0&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+<div style="display: flex; flex-direction: row;">
+  <!-- Primeira seção -->
+  <div style="flex: 1; margin-right: 10px;">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=LeoCasttr0&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+    </picture>
+  </div>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoCasttr0&layout=compact&langs_count=8&card_width=320" />
-</a>
+  <!-- Segunda seção -->
+  <div style="flex: 1; margin-left: 10px;">
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoCasttr0&layout=compact&langs_count=8&card_width=320" />
+    </a>
+  </div>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
