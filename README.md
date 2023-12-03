@@ -1,4 +1,4 @@
-### Olá ! Eu sou o Leonardo 🖖🏻
+### Hello! I'm Leonardo 🖖🏻
 
 
 
@@ -11,7 +11,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,mysql&perline=6)](https://skills.thijs.gg)
 
   
- ### 📥 Conecte-se comigo:
+ ### 📥 Connect with me:
  
 <div> 
    <a href="https://www.linkedin.com/in/leonardo-castro-5074a0276" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
