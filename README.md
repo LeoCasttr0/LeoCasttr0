@@ -1,4 +1,4 @@
-### Hello! , I'm Leonardo 🖖🏻
+### Hello , I'm Leonardo !
 
 
 
