@@ -1,12 +1,6 @@
 ### Hello , I'm Leonardo !
 
 
-
-| My Statistics                                                                                                                                                            | Main Languages                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=LeoCasttr0&show_icons=true&hide_border=true&count_private=true&theme=dracula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoCasttr0&langs_count=4&hide_border=true&theme=dracula&layout=compact)|
-
-
 ### These are some of the technologies and tools I have worked with :
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,mysql&perline=6)](https://skills.thijs.gg)
 
