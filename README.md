@@ -1,12 +1,8 @@
 ### Hello , I'm Leonardo !
+###Feel free to check out my repositories!
 
-
-### These are some of the technologies and tools I have worked with :
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,mysql&perline=6)](https://skills.thijs.gg)
-
-  
+---------------------------------------------------------------------
  ### 📥 Connect with me:
- 
 <div> 
    <a href="https://www.linkedin.com/in/leonardo-castro-5074a0276" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/leo_castrw" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
