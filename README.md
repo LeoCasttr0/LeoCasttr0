@@ -1,24 +1,31 @@
-### Hello , I'm Leonardo! , feel free to check out my repositories 😊
+# Olá Pessoal , me chamo Leonardo 😄
 
-<h2>💻 Technologies I've worked with</h2>
-<div style="display: inline_block">
-  <br>
-  <img align="center" alt="Js" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg">
-  <img align="center" alt="Ts" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg">
-  <img align="center" alt="HTML" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg">
-  <img align="center" alt="CSS" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg">
-  <img align="center" alt="Java" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" />
-  <img align="center" alt="Spring" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" />        
-</div>
+Estudo programação desde 2020, venho atuando no desenvolvimento de sites, projetos pessoais e projetos reais com empenho e muita dedicação. 
+Atualmente sou formado no __Curso técnico de Informatica__ e estou no 3° semestre do curso de __Análise e Desenvolvimento de Sistemas__ 💻
 
-<br>
+ ## 📱 Conecte-se Comigo !
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/leo_castrw)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-castro-5074a0276)
 
- ## 📥 Connect with me
-<div> 
-   <a href="https://www.linkedin.com/in/leonardo-castro-5074a0276" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/leo_castrw" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-</div>
+
+#### :mortar_board: Tenho conhecimento em:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+
+<table border="0" style="border:0;">
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocasttr0&layout=donut&title_color=adbac7&text_color=adbac7&theme=transparent&hide_border=true" width="300"/>
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=leocasttr0&title_color=adbac7&text_color=adbac7&theme=transparent&hide_border=true" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ![Snake animation](https://github.com/edsonfsousa/edsonfsousa/blob/output/github-contribution-grid-snake.svg)
 
